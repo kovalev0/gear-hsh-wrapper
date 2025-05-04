@@ -1,0 +1,5 @@
+Important:
+    basesystem
+    altlinux-release-sisyphus
+Required:
+    apt

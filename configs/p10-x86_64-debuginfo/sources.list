@@ -1,0 +1,2 @@
+rpm http://ftp.altlinux.org/pub/distributions/ALTLinux/p10/branch x86_64 classic debuginfo
+rpm http://ftp.altlinux.org/pub/distributions/ALTLinux/p10/branch noarch classic

@@ -1,0 +1,4 @@
+# kernel-image-un-def-5.10.0-alt1
+rpm http://ftp.altlinux.org/pub/distributions/archive sisyphus/task/archive/_257/263439/daily/x86_64      classic
+rpm http://ftp.altlinux.org/pub/distributions/archive sisyphus/task/archive/_257/263439/daily/x86_64-i586 classic
+rpm http://ftp.altlinux.org/pub/distributions/archive sisyphus/task/archive/_257/263439/daily/noarch      classic

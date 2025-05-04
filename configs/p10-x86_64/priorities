@@ -1,0 +1,5 @@
+Important:
+    basesystem
+    altlinux-release-p10
+Required:
+    apt

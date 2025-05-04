@@ -1,0 +1,2 @@
+rpm http://ftp.altlinux.org/pub/distributions/ALTLinux/ports/loongarch64 Sisyphus/loongarch64 classic debuginfo
+rpm http://ftp.altlinux.org/pub/distributions/ALTLinux/ports/loongarch64 Sisyphus/noarch      classic
